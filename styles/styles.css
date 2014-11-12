@@ -1,0 +1,21 @@
+/**
+*==============================================================
+* styles.css -- Global styles for the MyRWD website
+*==============================================================
+*
+* Created November 12. 2014
+*
+* Authored by Michael Ali
+*
+*/
+/* ----- Basic Styling ----- */
+
+body {
+  background-color: lightblue;  
+  }
+
+
+.page-wrapper {
+  background-color: white;
+  width: 786px;
+}
