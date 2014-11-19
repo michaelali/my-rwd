@@ -10,12 +10,52 @@
 */
 /* ----- Basic Styling ----- */
 
-body {
-  background-color: lightblue;  
-  }
+body{
+  background-color: lightblue;
+}
 
-
-.page-wrapper {
+#page-wrapper {
   background-color: white;
   width: 786px;
+  margin: auto;
 }
+
+#content {
+  background-color: #f7f2da;
+  margin-left: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0em;
+  padding-bottom: 0em;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+
+nav {
+  background-color: gray;
+  margin: 0;
+  padding: 0;
+  
+}
+
+nav ul li {
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+/*-----Nav Bar-----*/
+
+nav ul li{
+  display: inline-block;
+}
+
+
+
